@@ -1,0 +1,13 @@
+En enfoque estructurado directo:
+1.- Problema de la representacion del tablero
+    Matriz bidimensional de 7 columnas y 6 filas
+
+2.- Rellenado de la matriz, 
+    saber si una celda esta ocupada o vacia
+    Rellenado gravitacional
+
+3.- El problema de los turnos
+
+4.- Representacion del juego
+
+5.- Fin del juego, el problema de las victorias
